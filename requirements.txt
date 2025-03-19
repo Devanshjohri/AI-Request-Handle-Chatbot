@@ -1,0 +1,18 @@
+# FastAPI and web framework
+fastapi
+uvicorn
+
+# Data validation
+pydantic
+
+# Database
+pysqlite3
+
+# PDF processing
+pymupdf  # PyMuPDF
+
+# Multi-Agent AI System
+agno  # Previously known as Phidata
+
+# Utility libraries
+typing
